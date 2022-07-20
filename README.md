@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Priyanka Gupta
-- 🌱 I’m learning Python and machine learning.
-- 💻 Currently working in Web Development
-- 📫 How to reach me : DM me on Instagram @piku_1121
-      
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=ecf05e47a9v3pubglpd5gttwz7rhqktxtzbjkdikvydh4juf&rid=giphy.gif&ct=s" width="100"/>
+</div>
