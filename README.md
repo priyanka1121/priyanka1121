@@ -51,3 +51,7 @@ I am a Student pursuing Masters in Computer Applications from India.
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" title="git" alt="git" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" title="react" alt="react" width="50" height="50"/>&nbsp;
 </div>
+---
+
+### :fire: My Stats :
+
