@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47rqx2wnwtfcjfdlgovd8bg5jawlzcc1spmq50mvw6&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
----
+
 
 ### :woman_technologist: About Me :
 I am a Student pursuing Masters in Computer Applications from India.
@@ -51,7 +51,11 @@ I am a Student pursuing Masters in Computer Applications from India.
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" title="git" alt="git" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" title="react" alt="react" width="50" height="50"/>&nbsp;
 </div>
+
 ---
 
-### :fire: My Stats :
 
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priyanka1121&theme=github-dark-blue)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka1121&show_icons=true&theme=github_dark)
