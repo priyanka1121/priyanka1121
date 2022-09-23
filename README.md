@@ -58,4 +58,4 @@ I am a Student pursuing Masters in Computer Applications from India.
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priyanka1121&theme=github-dark-blue)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka1121&show_icons=true&theme=github_dark)
+
