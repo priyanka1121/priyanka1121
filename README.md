@@ -28,7 +28,7 @@
 
 ### :woman_technologist: About Me :
 I am a Student pursuing Masters in Computer Applications from India.
-- :books: I’m currently studying about data analytics.
+- :books: I’m currently studying Data analytics.
 - :seedling: Currently working on web development project
 - :zap: In my free time, I solve problems on leetcode.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-gupta-6640b4188/)
