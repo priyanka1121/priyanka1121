@@ -59,7 +59,7 @@ I am a Student pursuing Masters in Computer Applications from India.
 ![priyanka1121's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=priyanka1121&theme=aura&chart=pie)
 ![priyanka1121's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=priyanka1121&type=languages&theme=aura&chart=pie)
 ![priyanka1121's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=priyanka1121&type=contributions&theme=aura)
-![priyanka1121's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=priyanka1121&type=top-repos&theme=aura)
+
 
 
 
