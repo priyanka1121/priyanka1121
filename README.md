@@ -56,7 +56,6 @@ I am a Student pursuing Masters in Computer Applications from India.
 
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priyanka1121&theme=midnight-purple)](https://git.io/streak-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka1121&langs_count=10&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="lang" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=priyanka1121)](https://git.io/streak-stats)
 </p>
 
