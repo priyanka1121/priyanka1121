@@ -58,11 +58,12 @@ I build backend services and LLM-powered automation: the unglamorous plumbing th
 | Planet | Domain | Tools |
 |:---|:---|:---|
 | ☀️ **The Sun** · core | Language | ![Python](https://img.shields.io/badge/Python-0B0B2B?style=flat-square&logo=python&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95) |
+| ☿️ **Mercury** · ML & signals | Models | ![scikit-learn](https://img.shields.io/badge/scikit--learn-0B0B2B?style=flat-square&logo=scikitlearn&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95) ![SciPy](https://img.shields.io/badge/SciPy-0B0B2B?style=flat-square&logo=scipy&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95) ![Joblib](https://img.shields.io/badge/Joblib-0B0B2B?style=flat-square&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95) |
 | 🪐 **Saturn** · GenAI / LLM | AI systems | ![LangChain](https://img.shields.io/badge/LangChain-0B0B2B?style=flat-square&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95) ![OpenAI](https://img.shields.io/badge/OpenAI-0B0B2B?style=flat-square&logo=openai&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95) ![Claude](https://img.shields.io/badge/Claude-0B0B2B?style=flat-square&logo=anthropic&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95) ![Gemini](https://img.shields.io/badge/Gemini-0B0B2B?style=flat-square&logo=googlegemini&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95) ![Groq](https://img.shields.io/badge/Groq-0B0B2B?style=flat-square&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95) |
 | 🌍 **Earth** · backend | Services | ![FastAPI](https://img.shields.io/badge/FastAPI-0B0B2B?style=flat-square&logo=fastapi&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A) ![Django](https://img.shields.io/badge/Django-0B0B2B?style=flat-square&logo=django&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A) ![Node.js](https://img.shields.io/badge/Node.js-0B0B2B?style=flat-square&logo=nodedotjs&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A) |
 | 🔵 **Neptune** · data | Storage | ![MySQL](https://img.shields.io/badge/MySQL-0B0B2B?style=flat-square&logo=mysql&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A) ![SQLite](https://img.shields.io/badge/SQLite-0B0B2B?style=flat-square&logo=sqlite&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A) |
 | 🔴 **Mars** · DevOps | Delivery | ![Docker](https://img.shields.io/badge/Docker-0B0B2B?style=flat-square&logo=docker&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0B0B2B?style=flat-square&logo=azuredevops&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95) ![Git](https://img.shields.io/badge/Git-0B0B2B?style=flat-square&logo=git&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95) ![Vercel](https://img.shields.io/badge/Vercel-0B0B2B?style=flat-square&logo=vercel&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95) |
-| 🌙 **The Moon** · frontend | Interfaces | ![React](https://img.shields.io/badge/React-0B0B2B?style=flat-square&logo=react&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A) ![Next.js](https://img.shields.io/badge/Next.js-0B0B2B?style=flat-square&logo=nextdotjs&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A) ![JavaScript](https://img.shields.io/badge/JavaScript-0B0B2B?style=flat-square&logo=javascript&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A) |
+| 🌙 **The Moon** · frontend | Interfaces | ![React](https://img.shields.io/badge/React-0B0B2B?style=flat-square&logo=react&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A) ![Next.js](https://img.shields.io/badge/Next.js-0B0B2B?style=flat-square&logo=nextdotjs&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A) ![TypeScript](https://img.shields.io/badge/TypeScript-0B0B2B?style=flat-square&logo=typescript&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A) ![JavaScript](https://img.shields.io/badge/JavaScript-0B0B2B?style=flat-square&logo=javascript&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A) |
 
 </div>
 
@@ -72,38 +73,46 @@ I build backend services and LLM-powered automation: the unglamorous plumbing th
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-### 🛰️ Mission: Orbit Job Hunter AI
-An AI-powered job-hunting dashboard. It scrapes listings across regions, scores each one against your uploaded resume with LLMs, and emails you a digest.
+### ⚙️ Main Mission: BearingGuard
+**AI-powered bearing fault detection from vibration signals**
+*Turning raw industrial vibration data into real-time fault predictions, end to end.*
 
-**Flight systems**
-- Next.js frontend + Node.js backend
-- Multi-model scoring chain with automatic fallback: Gemini 2.5 Flash → Llama 3.3 70B → Llama 3.1 8B (via Groq)
-- JSearch (RapidAPI) for job data
+<div align="center">
 
-[![Repo](https://img.shields.io/badge/VIEW_MISSION-0B0B2B?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95)](https://github.com/priyanka1121/REPLACE_WITH_REPO_NAME)
+📄 **Vibration data** → 📊 **Features** → 🌲 **Random Forest** → ⚡ **FastAPI** → ⚛️ **React result**
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### 🌌 Mission: Space-Themed Portfolio
-A full personal site with an animated starfield, dark/light mode, skill bars, and an in-browser resume with PDF export.
+A full-stack ML application that takes a MATLAB `.mat` vibration recording plus motor RPM and returns a fault prediction, confidence scores, and a plain-language recommendation. It goes beyond a notebook: a deployable, tested system from raw signal to web UI.
 
 **Flight systems**
-- React + Vite
-- Deployed on Vercel
+- 🩺 Classifies four conditions: normal, inner-race, outer-race and ball faults
+- 📡 Signal processing on 2,048-sample windows at 12 kHz, with time-domain, FFT and Hilbert-envelope features tied to bearing fault frequencies (BPFI, BPFO, BSF, FTF)
+- 🌲 Random Forest model persisted with Joblib and served through a FastAPI inference API
+- ⚛️ React (Vite) frontend for upload, validation and results
+- 🧪 Verified with 8 end-to-end test cases, covering all four conditions, bad input and frontend ↔ backend integration
 
-[![Live](https://img.shields.io/badge/LIVE_SITE-0B0B2B?style=for-the-badge&logo=vercel&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A)](https://priyankagupta-portfolio.vercel.app)
+![Python](https://img.shields.io/badge/Python-0B0B2B?style=flat-square&logo=python&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95) ![FastAPI](https://img.shields.io/badge/FastAPI-0B0B2B?style=flat-square&logo=fastapi&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0B0B2B?style=flat-square&logo=scikitlearn&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95) ![React](https://img.shields.io/badge/React-0B0B2B?style=flat-square&logo=react&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A)
+
+[![Repo](https://img.shields.io/badge/VIEW_MISSION-0B0B2B?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0B0B2B&color=4C1D95)](https://github.com/priyanka1121/BearingGuard)
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
+</table>
 
-### ☄️ Upcoming launches
-<!-- Add 1-3 more here: RAG chatbot, agent workflow, LLM eval tool, etc. Keep each to 2-3 lines + stack + repo link. -->
-*More agents, RAG, and automation experiments are on the launchpad.*
+<table>
+<tr>
+<td valign="top">
+
+### 🌙 Mission 02: Luma
+A web app built with **Next.js** and **TypeScript**, using **shadcn/ui** components.
+<!-- TODO: add one line about what Luma does and who it is for -->
+
+![Next.js](https://img.shields.io/badge/Next.js-0B0B2B?style=flat-square&logo=nextdotjs&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A) ![TypeScript](https://img.shields.io/badge/TypeScript-0B0B2B?style=flat-square&logo=typescript&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A) ![React](https://img.shields.io/badge/React-0B0B2B?style=flat-square&logo=react&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A)
+
+[![Repo](https://img.shields.io/badge/VIEW_MISSION-0B0B2B?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=0B0B2B&color=1E3A8A)](https://github.com/priyanka1121/luma)
 
 </td>
 </tr>
@@ -118,13 +127,9 @@ A full personal site with an animated starfield, dark/light mode, skill bars, an
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyanka1121&show_icons=true&hide_border=true&bg_color=0B0B2B&title_color=A78BFA&text_color=BFDBFE&icon_color=60A5FA&ring_color=8B5CF6&custom_title=Flight%20Telemetry&include_all_commits=true" alt="stats"/>
 <img height="165" src="https://streak-stats.demolab.com?user=priyanka1121&hide_border=true&background=0B0B2B&ring=8B5CF6&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=BFDBFE&sideNums=BFDBFE&dates=93C5FD&stroke=4C1D95" alt="streak"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanka1121&bg_color=0B0B2B&color=A78BFA&line=8B5CF6&point=60A5FA&area=true&area_color=3B82F6&hide_border=true&title_color=A78BFA" width="95%" alt="activity graph"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=priyanka1121&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="trophies"/>
+<img src="https://raw.githubusercontent.com/priyanka1121/priyanka1121/output/github-snake.svg" width="95%" alt="contribution snake"/>
 
 </div>
 
