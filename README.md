@@ -1,8 +1,6 @@
-<!-- ✦ SOLAR SYSTEM PROFILE README · priyanka1121 ✦ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B2B,45:4C1D95,100:3B82F6&height=230&section=header&text=Priyanka%20Gupta&fontSize=54&fontColor=E9D5FF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20GenAI%20%26%20LLM%20Systems&descSize=18&descAlignY=60&descColor=BFDBFE" width="100%" alt="header"/>
+<img src="./assets/banner.svg" width="100%" alt="Priyanka Gupta, Software Engineer, GenAI and LLM Systems"/>
 
 <img src="https://media2.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=ecf05e47a9v3pubglpd5gttwz7rhqktxtzbjkdikvydh4juf&rid=giphy.gif&ct=s" width="200" alt="intro gif"/>
 
@@ -26,44 +24,34 @@
 
 <img src="https://komarev.com/ghpvc/?username=priyanka1121&style=for-the-badge&color=6D28D9&label=VISITORS+IN+ORBIT&labelColor=0B0B2B" alt="profile views"/>
 
+<br/><br/>
+
+<img src="./assets/briefing.svg" width="100%" alt="Mission briefing: Software Engineer, GenAI and LLM systems, MCA"/>
+
 </div>
 
----
-
-## 🌌 `Mission Briefing`
-
-```python
-class Priyanka:
-    role      = "Software Engineer"
-    galaxy    = ["GenAI", "LLM apps", "Backend systems", "ML pipelines"]
-    education = "MCA"
-    base      = "Earth, India 🇮🇳"
-    mission   = "Ship AI that actually works in production"
-
-    def orbit(self):
-        while True:
-            self.design_apis()
-            self.wire_up_llms()
-            self.debug_until_green()
-            self.launch()
-```
+<br/>
 
 I build backend services and LLM-powered automation: the unglamorous plumbing that makes AI features reliable, fast, and useful. I like clean APIs, honest evals, and systems that fail gracefully.
 
 ---
 
-## 🛰️ `Mission Status`
+## 🛰️ Mission Status
 
-```text
-[ IN ORBIT ]   building LLM / GenAI projects (agents, RAG, automation)
-[ EXPLORING ]  LLM evaluation, orchestration, and production patterns
-[ TRAINING ]   LeetCode, to keep the algorithm engines warm
-[ OPEN TO ]    collaborations, open source, and big engineering challenges
-```
+<div align="center">
+
+| | |
+|:---|:---|
+| 🟣 **In orbit** | Building LLM / GenAI projects: agents, RAG, automation |
+| 🔵 **Exploring** | LLM evaluation, orchestration, and production patterns |
+| 🟣 **Training** | LeetCode, to keep the algorithm engines warm |
+| 🔵 **Open to** | Collaborations, open source, and big engineering challenges |
+
+</div>
 
 ---
 
-## 🪐 `The Solar System of Skills`
+## 🪐 The Solar System of Skills
 
 <div align="center">
 
@@ -80,7 +68,7 @@ I build backend services and LLM-powered automation: the unglamorous plumbing th
 
 ---
 
-## 🚀 `Featured Missions`
+## 🚀 Featured Missions
 
 <table>
 <tr>
@@ -115,7 +103,7 @@ A full personal site with an animated starfield, dark/light mode, skill bars, an
 
 ### ☄️ Upcoming launches
 <!-- Add 1-3 more here: RAG chatbot, agent workflow, LLM eval tool, etc. Keep each to 2-3 lines + stack + repo link. -->
-`more agents, RAG, and automation experiments are on the launchpad`
+*More agents, RAG, and automation experiments are on the launchpad.*
 
 </td>
 </tr>
@@ -123,7 +111,7 @@ A full personal site with an animated starfield, dark/light mode, skill bars, an
 
 ---
 
-## 📡 `Telemetry`
+## 📡 Telemetry
 
 <div align="center">
 
@@ -142,22 +130,19 @@ A full personal site with an animated starfield, dark/light mode, skill bars, an
 
 ---
 
-## 🔭 `Flight Principles`
-
-```bash
-$ cat principles.txt
-1. Launch it, then make it better.
-2. Read the logs. The answer is almost always in the logs.
-3. LLMs are powerful, but only when wrapped in solid engineering.
-4. Be the engineer you wished you'd had as a mentor.
-```
+## 🔭 Flight Principles
 
 <div align="center">
 
-### `while (alive) { learn(); build(); launch(); }`
+| | |
+|:---|:---|
+| 🚀 **Launch it, then make it better.** | 📜 **Read the logs. The answer is almost always there.** |
+| 🧠 **LLMs are powerful, but only with solid engineering around them.** | 🤝 **Be the engineer you wished you'd had as a mentor.** |
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave"/> **Thanks for visiting my corner of the galaxy. Let's build something.**
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,55:4C1D95,100:0B0B2B&height=140&section=footer" width="100%" alt="footer"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave"/>
+
+<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting my corner of the galaxy"/>
 
 </div>
