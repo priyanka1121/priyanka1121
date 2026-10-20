@@ -16,7 +16,7 @@
 <a href="https://priyankagupta-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-0B0B2B?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=0B0B2B&color=1E3A8A" alt="Portfolio"/>
 </a>
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:priyankagupt2111@gmail.com">
   <img src="https://img.shields.io/badge/Email-0B0B2B?style=for-the-badge&logo=gmail&logoColor=60A5FA&labelColor=0B0B2B&color=4C1D95" alt="Email"/>
 </a>
 
